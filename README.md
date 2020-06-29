@@ -10,3 +10,4 @@ Implementation of classic board game Ludo (Griniaris in Greek) with GUI in Java 
 * When the player moves and has no second available then the other automatically plays without having to press the "End of Movement" button but there is so you can skip moves to check its functionality οφ my implementation.
 * Use graphics to depict the pawns, the dice, the circle cell, the star cell of the four corners of the central square, the play now and the stop.
 
+In "Coursework.pdf" exist the game rules and requments.
